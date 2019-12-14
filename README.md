@@ -13,9 +13,6 @@
 ## Kernel List
 - I have evaluated EXPRESSCLUSTER with some kernel versions. For more details, please refer to [KernelList.md](https://github.com/fukunagt/EXPRESSCLUSTER/blob/master/KernelList.md).
 
-## Tips
-There are some tips of EXPRESSCLUSTER on [Wiki page](https://github.com/fukunagt/EXPRESSCLUSTER/wiki). 
-
 ## FAQ
 FAQs are available on the following site. Unfortunately, these are written in Japanese. But, I hope that some brilliant web browser (ex. Chrome) will translate Japanese to your language. For some contents, you need the support contract.
 * https://www.support.nec.co.jp/View.aspx?isIntra=0&id=3140101267
