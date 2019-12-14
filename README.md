@@ -1,8 +1,7 @@
 # Open Knowledge Project for EXPRESSCLUSTER
 
 ## The Purpose of the Project
-- This is a private page to share some information of EXPRESSCLUSTER. If you want to get some tools or know-how, plesae visit EXPRESSCLUSTER GitHub [page](https://github.com/EXPRESSCLUSTER).
-- The purpose of the project is to open knowledge of EXPRESSCLUSTER. I would like to open knowledge on [Wiki page](https://github.com/fukunagt/EXPRESSCLUSTER/wiki).
+- This is a private page to share some information of EXPRESSCLUSTER. If you want to get some tools or know-how, plesae visit [EXPRESSCLUSTER GitHub](https://github.com/EXPRESSCLUSTER).
 
 ## What is EXPRESSCLUSTER?
 **EXPRESSCLUSTER** is a HA (High Availability) clustering software. In Japan, it is called **CLUSTERPRO**. For more detail, please visit NEC official website.
