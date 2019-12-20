@@ -106,4 +106,4 @@ I have evaluated the following kernel and EXPRESSCLUSTER X as a *volunteer* :-)
   |2.6.32-754.23.1|
   |2.6.32-754.14.2|
 
-  - You need to apply the EXPRESSCLUSTER driver update (CPRO-XL060-22) for kernel version **3.10.0-957 or later**.
+  - You need to apply the EXPRESSCLUSTER driver update (CPRO-XL060-22) for kernel version **2.6.32-754 or later**.
