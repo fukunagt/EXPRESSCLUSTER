@@ -98,6 +98,14 @@ I have evaluated the following kernel and EXPRESSCLUSTER X as a *volunteer* :-)
 
   - You need to apply the EXPRESSCLUSTER driver update (CPRO-XL060-22) for kernel version **3.10.0-957 or later**.
 
+### Red Hat 7.2
+- x86_64
+
+  |kernel version |
+  |:--------------|
+  |3.10.0-327.59.1|
+
+
 ### CentOS 6.10
 - x86_64
 
