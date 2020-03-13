@@ -87,6 +87,14 @@ I have evaluated the following kernel and EXPRESSCLUSTER X as a *volunteer* :-)
   |2.6.32-754.14.2|
 
 ## EXPRESSCLUSTER X 3.3 (3.3.5-1)
+### CentOS 7.7
+- x86_64
+  |kernel version             |
+  |:--------------------------|
+  |3.10.0-1062.12.1.el7.x86_64|
+
+  - You need to apply the [EXPRESSCULSTER driver update](https://www.support.nec.co.jp/en/View.aspx?NoClear=on&id=4140100112) for kernel version **3.10.0-1062**.
+
 ### CentOS 7.6
 - x86_64
 
