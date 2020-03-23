@@ -87,6 +87,13 @@ I have evaluated the following kernel and EXPRESSCLUSTER X as a *volunteer* :-)
   |2.6.32-754.14.2|
 
 ## EXPRESSCLUSTER X 3.3 (3.3.5-1)
+### CentOS 7.7
+- x86_64
+
+  |kernel version |
+  |:--------------|
+  |3.10.0-1062.18.1|
+
 ### CentOS 7.6
 - x86_64
 
