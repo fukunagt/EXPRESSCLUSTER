@@ -93,6 +93,9 @@ I have evaluated the following kernel and EXPRESSCLUSTER X as a *volunteer* :-)
   |kernel version |
   |:--------------|
   |3.10.0-1062.18.1|
+  |3.10.0-1062.12.1|
+
+  - You need to apply the [EXPRESSCULSTER driver update](https://www.support.nec.co.jp/en/View.aspx?NoClear=on&id=4140100112) for kernel version **3.10.0-1062**.
 
 ### CentOS 7.6
 - x86_64
