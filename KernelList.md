@@ -1,6 +1,14 @@
 # Kernel List with EXPRESSCLUSTER
 I have evaluated the following kernel and EXPRESSCLUSTER X as a *volunteer* :-)
 
+## EXPRESSCLUSTER X 4.2 (4.2.0-1)
+### CentOS 7.7
+- x86_64
+
+  |kernel version |
+  |:--------------|
+  |3.10.0-1062.18.1|
+
 ## EXPRESSCLUSTER X 4.1 (4.1.2-1)
 ### CentOS 7.7
 - x86_64
