@@ -103,10 +103,11 @@ I have evaluated the following kernel and EXPRESSCLUSTER X as a *volunteer* :-)
 |:--------------|
 |3.10.0-327.59.1.el7.x86_64|
 
-
 ### CentOS 6.10
 |kernel version |
 |:--------------|
+|2.6.32-754.29.1.el6.x86_64|
+|2.6.32-754.24.3.el6.x86_64|
 |2.6.32-754.23.1.el6.x86_64|
 |2.6.32-754.14.2.el6.x86_64|
 - You need to apply the EXPRESSCLUSTER driver update (CPRO-XL060-22) for kernel version **2.6.32-754 or later**.
