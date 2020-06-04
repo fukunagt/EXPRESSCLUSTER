@@ -18,7 +18,7 @@ I have evaluated the following kernel and EXPRESSCLUSTER X as a *volunteer* :-)
 |:--------------|
 |3.10.0-1062.18.1.el7.x86_64|
 
-### Oralce Linux 7.7
+### Oracle Linux 7.7
 |kernel version |
 |:--------------|
 |4.14.35-1902.10.8.el7uek.x86_64|
