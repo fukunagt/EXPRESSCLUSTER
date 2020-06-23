@@ -18,6 +18,11 @@ I have evaluated the following kernel and EXPRESSCLUSTER X as a *volunteer* :-)
 |:--------------|
 |3.10.0-1062.18.1.el7.x86_64|
 
+### Oracle Linux 7.8
+|kernel version |
+|:--------------|
+|4.14.35-1902.303.5.3.el7uek.x86_64|
+
 ### Oracle Linux 7.7
 |kernel version |
 |:--------------|
