@@ -2,6 +2,7 @@
 I have evaluated the following kernel and EXPRESSCLUSTER X as a *volunteer* :-)
 
 - EXPRESSCLUSTER X 4.2
+  - [4.2.2-1](#expresscluster-x-42-422-1)
   - [4.2.0-1](#expresscluster-x-42-420-1)
 - EXPRESSCLUSTER X 4.1
   - [4.1.2-1](#expresscluster-x-41-412-1)
@@ -11,6 +12,13 @@ I have evaluated the following kernel and EXPRESSCLUSTER X as a *volunteer* :-)
   - [4.0.0-1](#expresscluster-x-40-400-1)
 - EXPRESSCLUSTER X 3.3
   - [3.3.5-1](#expresscluster-x-33-335-1)
+
+## EXPRESSCLUSTER X 4.2 (4.2.2-1)
+
+### CentOS 7.8
+|kernel version |
+|:--------------|
+|3.10.0-1127.13.1.el7.x86_64|
 
 ## EXPRESSCLUSTER X 4.2 (4.2.0-1)
 ### CentOS 7.7
