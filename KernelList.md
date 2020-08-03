@@ -18,6 +18,7 @@ I have evaluated the following kernel and EXPRESSCLUSTER X as a *volunteer* :-)
 ### CentOS 7.8
 |kernel version |
 |:--------------|
+|3.10.0-1127.18.2.el7.x86_64|
 |3.10.0-1127.13.1.el7.x86_64|
 
 ## EXPRESSCLUSTER X 4.2 (4.2.0-1)
