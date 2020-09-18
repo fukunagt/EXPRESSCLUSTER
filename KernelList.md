@@ -15,12 +15,17 @@ I have evaluated the following kernel and EXPRESSCLUSTER X as a *volunteer* :-)
 
 ## EXPRESSCLUSTER X 4.2 (4.2.2-1)
 ### CentOS 8.2
-
 #### ppc64le
 |kernel version |
 |:--------------|
+|4.18.0-193.14.2.el8_2.ppc64le|
 |4.18.0-193.6.3.el8_2.ppc64le|
-- Kernel modules (clpka, clpkhb, liscal) cannot work.
+- Kernel modules (liscal) cannot work.
+
+### Oracle Linux 8.2
+|kernel version |
+|:--------------|
+|4.18.0-193.19.1.el8_2.x86_64|
 
 ### CentOS 7.8
 |kernel version |
