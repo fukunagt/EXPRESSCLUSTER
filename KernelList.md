@@ -15,6 +15,9 @@ I have evaluated the following kernel and EXPRESSCLUSTER X as a *volunteer* :-)
 
 ## EXPRESSCLUSTER X 4.2 (4.2.2-1)
 ### CentOS 8.2
+<!--
+#### x86_64
+-->
 #### ppc64le
 |kernel version |
 |:--------------|
@@ -25,6 +28,7 @@ I have evaluated the following kernel and EXPRESSCLUSTER X as a *volunteer* :-)
 ### Oracle Linux 8.2
 |kernel version |
 |:--------------|
+|4.18.0-193.28.1.el8_2.x86_64|
 |4.18.0-193.19.1.el8_2.x86_64|
 
 ### CentOS 7.8
