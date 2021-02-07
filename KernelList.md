@@ -58,14 +58,14 @@ I have evaluated the following kernel and EXPRESSCLUSTER X as a *volunteer* :-)
 |kernel version |
 |:--------------|
 |3.10.0-1062.9.1.el7.x86_64|
-- You need to apply the EXPRESSCLUSTER driver update (CPRO-XLA70-04).
+- You need to apply the EXPRESSCLUSTER driver update (CPRO-XL070-04).
 
 ## EXPRESSCLUSTER X 4.1 (4.1.1-1)
 ### CentOS 7.7
 |kernel version |
 |:--------------|
 |3.10.0-1062.9.1.el7.x86_64|
-- You need to apply the EXPRESSCLUSTER driver update (CPRO-XLA70-04).
+- You need to apply the EXPRESSCLUSTER driver update (CPRO-XL070-04).
 
 ### CentOS 7.6
 |kernel version |
