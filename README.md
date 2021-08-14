@@ -10,7 +10,7 @@
 
 ## Documentation
 - HTML manuals are available now.
-  - https://www.manuals.nec.co.jp/contents/node/494
+  - [https://www.manuals.nec.co.jp/contents/node/494](https://www.manuals.nec.co.jp/contents/node/494)
 
 ## Update Modules (CLUSTERPRO Only)
 - The update module list is [here](UpdateModules.md).
