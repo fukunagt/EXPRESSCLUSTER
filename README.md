@@ -10,11 +10,13 @@
 
 ## Documentation
 - HTML manuals are available now.
-  - [EXPRESSCLUSTER X 4.2 for Windows](https://www.manuals.nec.co.jp/contents/system/files/nec_manuals/node/504/index.html)
-  - [EXPRESSCLUSTER X 4.2 for Linux](https://www.manuals.nec.co.jp/contents/system/files/nec_manuals/node/505/index.html)
+  - https://www.manuals.nec.co.jp/contents/node/494
+
+## Update Modules (CLUSTERPRO Only)
+- The update module list is [here](UpdateModules.md).
 
 ## Kernel List
-- I have evaluated EXPRESSCLUSTER with some kernel versions. For more details, please refer to [KernelList.md](https://github.com/fukunagt/EXPRESSCLUSTER/blob/master/KernelList.md).
+- I have evaluated EXPRESSCLUSTER with some kernel versions. For more details, please refer to [Kernel List](KernelList.md).
 
 ## FAQ
 - FAQs are available on the following site. Unfortunately, these are written in Japanese. But, I hope that some brilliant web browser (ex. Chrome) will translate Japanese to your language. For some contents, you need the support contract.
