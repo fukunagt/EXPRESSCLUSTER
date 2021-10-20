@@ -13,6 +13,25 @@ I have evaluated the following kernel and EXPRESSCLUSTER X as a *volunteer* :-)
 - EXPRESSCLUSTER X 3.3
   - [3.3.5-1](#expresscluster-x-33-335-1)
 
+## EXPRESSCLUSTER X 4.3 (4.3.2-1)
+### AlmaLinux 8.4
+#### x86_64
+|kernel version |
+|:--------------|
+|4.18.0-305.19.1.el8_4.x86_64|
+
+### MIRACLE LINUX 8.4
+#### x86_64
+|kernel version |
+|:--------------|
+|4.18.0-305.19.1.el8_4.x86_64|
+
+### Rocky Linux 8.4
+#### x86_64
+|kernel version |
+|:--------------|
+|4.18.0-305.19.1.el8_4.x86_64|
+
 ## EXPRESSCLUSTER X 4.2 (4.2.2-1)
 ### CentOS 8.2
 <!--
