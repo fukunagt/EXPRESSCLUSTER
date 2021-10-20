@@ -1,6 +1,9 @@
 # Kernel List with EXPRESSCLUSTER
 I have evaluated the following kernel and EXPRESSCLUSTER X as a *volunteer* :-)
 
+## Index
+- EXPRESSCLUSTER X 4.3
+  - [4.3.2-1](#expresscluster-x-43-432-1)
 - EXPRESSCLUSTER X 4.2
   - [4.2.2-1](#expresscluster-x-42-422-1)
   - [4.2.0-1](#expresscluster-x-42-420-1)
