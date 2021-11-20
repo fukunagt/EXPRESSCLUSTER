@@ -27,6 +27,7 @@ I have evaluated the following kernel and EXPRESSCLUSTER X as a *volunteer* :-)
 #### x86_64
 |kernel version |
 |:--------------|
+|4.18.0-305.25.1.el8_4.x86_64|
 |4.18.0-305.19.1.el8_4.x86_64|
 
 ### Rocky Linux 8.4
