@@ -29,6 +29,7 @@ I have evaluated the following kernel and EXPRESSCLUSTER X as a *volunteer* :-)
 |:--------------|
 |4.18.0-305.25.1.el8_4.x86_64|
 |4.18.0-305.19.1.el8_4.x86_64|
+|4.18.0-305.el8_4.x86_64|
 
 ### Rocky Linux 8.4
 #### x86_64
@@ -37,10 +38,6 @@ I have evaluated the following kernel and EXPRESSCLUSTER X as a *volunteer* :-)
 |4.18.0-305.19.1.el8_4.x86_64|
 
 ## EXPRESSCLUSTER X 4.2 (4.2.2-1)
-### CentOS 8.2
-<!--
-#### x86_64
--->
 #### ppc64le
 |kernel version |
 |:--------------|
