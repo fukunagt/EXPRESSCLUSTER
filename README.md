@@ -21,3 +21,10 @@
 ## FAQ
 - FAQs are available on the following site. Unfortunately, these are written in Japanese. But, I hope that some brilliant web browser (ex. Chrome) will translate Japanese to your language. For some contents, you need the support contract.
   - [https://www.support.nec.co.jp/View.aspx?isIntra=0&id=3140101267](https://www.support.nec.co.jp/View.aspx?isIntra=0&id=3140101267)
+
+## Misc
+- Here are some notes for me.
+
+### Linux
+- Virtual IP Address Resource
+  - [JP](doc/VIP_Linux_jp.md)
