@@ -13,10 +13,10 @@
   - [https://www.manuals.nec.co.jp/contents/node/494](https://www.manuals.nec.co.jp/contents/node/494)
 
 ## Update Modules (CLUSTERPRO Only)
-- The update module list is [here](UpdateModules.md).
+- The update module list is [here](doc/UpdateModules.md).
 
 ## Kernel List
-- I have evaluated EXPRESSCLUSTER with some kernel versions. For more details, please refer to [Kernel List](KernelList.md).
+- I have evaluated EXPRESSCLUSTER with some kernel versions. For more details, please refer to [Kernel List](doc/KernelList.md).
 
 ## FAQ
 - FAQs are available on the following site. Unfortunately, these are written in Japanese. But, I hope that some brilliant web browser (ex. Chrome) will translate Japanese to your language. For some contents, you need the support contract.
