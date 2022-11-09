@@ -3,6 +3,7 @@ I have evaluated the following kernel and EXPRESSCLUSTER X as a *volunteer* :-)
 
 ## Index
 - EXPRESSCLUSTER X 5.0
+  - [5.0.2-1](#expresscluster-x-50-502-1)
   - [5.0.1-1](#expresscluster-x-50-501-1)
   - [5.0.0-1](#expresscluster-x-50-500-1)
 - EXPRESSCLUSTER X 4.3
@@ -19,6 +20,19 @@ I have evaluated the following kernel and EXPRESSCLUSTER X as a *volunteer* :-)
   - [4.0.0-1](#expresscluster-x-40-400-1)
 - EXPRESSCLUSTER X 3.3
   - [3.3.5-1](#expresscluster-x-33-335-1)
+
+## EXPRESSCLUSTER X 5.0 (5.0.2-1)
+### MIRACLE LINUX 8.6
+|kernel version |
+|:--------------|
+|4.18.0-372.32.1.el8_6.x86_64|
+|4.18.0-372.26.1.el8_6.x86_64|
+
+### Ubuntu 22.04.1
+|kernel version |
+|:--------------|
+|5.15.0-52-generic|
+- Kernel modules (clpka, clpkhb, liscal) cannot work.
 
 ## EXPRESSCLUSTER X 5.0 (5.0.1-1)
 ### MIRACLE LINUX 8.4
